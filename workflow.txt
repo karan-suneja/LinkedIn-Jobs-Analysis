@@ -1,0 +1,20 @@
+part 1 : Data Collection (Web-Scraping)
+- scraped jobs from linkedin using python and selenium
+- scrolled through the jobs page
+- clicked on every single job posting
+- collected their data
+- put together in a .csv file
+
+part 2 : Data Cleaning (ETL)
+- loaded data into PowerQuery
+- selected datatypes for each columns
+- removed (S No.) column
+- removed blank rows & fixed errors
+- renamed columns
+
+part 3 : Data Analysis & Visualization
+- after etl processes, loaded data to PowerBI
+- created KPIs
+- created visuals with informational insights for Main dashboard
+- created another page for lloking at job_postings data
+- created filters and a clear filter button

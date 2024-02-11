@@ -1,0 +1,19 @@
+Problem Statement
+To Collect job postings data from LinkedIn related to "Data" in "India" to gather various hidden informational insights like:
+- what are the most in demand job positions
+- what experience level is required for most jobs
+- what are the industries the jobs are listed in
+- what type of job roles are available most
+- what are the top 5 companies currently hiring
+- what are the top 5 job locations
+
+Findings
+- Data Scientist/Data Analyst/Data Engineer/Business Engineer/Senior Data Analyst
+- Mid-Senior/Entry/Associate/Internship/Director/Executive
+- IT/Tech/Software Dev/Finance/Retail
+- Full-time/Contract/Internship/Part-time/Temp
+- Google/EXL/LinkeedIN/Tesco/Wipro
+- Bengaluru/Mumbai/Hyderabad/Gurugram/Chennai
+
+
+Note: The findings are based on current jobs postings and may differ from data collected after some time.
