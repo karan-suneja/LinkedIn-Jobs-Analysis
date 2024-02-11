@@ -14,3 +14,5 @@ https://drive.google.com/file/d/1Kh7PHrmth_yotuhlFoachhmO852D-8nw/view?usp=shari
 ## Screenshots
 ![Alt text](https://github.com/karan-suneja/LinkedIn-Jobs-Analysis/blob/main/Media/dashboard_1.jpg)
 
+## Note: The findings are based on current jobs postings and may differ from data collected after some time.
+## Note: Scraping Data from LinkedIn is not a 100% Legal, so use proxies from the config.py
